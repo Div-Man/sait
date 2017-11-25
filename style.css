@@ -1,0 +1,18 @@
+.block {
+	float: left;
+	min-width: 400px;
+	border: 1px solid;
+	margin-right: 10px;
+	padding: 10px;
+}
+
+table {
+	border: 1px solid;
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid;
+	padding: 5px;
+	text-align: center;
+}
